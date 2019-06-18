@@ -7,7 +7,7 @@ I'm utilizing multiple resources listed below in order to have a good understand
 
 1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 20%)  
   This online course covers broad range of applications of machine learning  
-  a. Data Capstone Project - (to be updated)
+    a. Data Capstone Project - (to be updated)
   
 2. Stanford Online - Statistical Learning (Progress: 30%)  
   This course covers logic and theory behind ML which I think are very important to understand to become a good data scientist  
@@ -20,6 +20,6 @@ I'm utilizing multiple resources listed below in order to have a good understand
   Covers similar topics as above, but uses linear algebra which the courses above try to avoid. The course was originally taught in Octave, but I plan to learn it with Python variant (https://github.com/dibgerge/ml-coursera-python-assignments)
   
 5. Coursera - Deep Learning Specialization by deeplearning.ai (Progress: 0%)  
-  I'm not sure how long it will take for me to get here, but I'm very excited to learn more advanced techniques like NN
+  I'm not sure how long it will take for me to get here, but I will be very excited to learn more advanced techniques like NN
   
 I'm currently using 1-4 concurrently as each have pros and cons and they complement each other well. From time to time I plan to work on my personal projects, participate in Kaggle competitions and internal DS competitions at work.
