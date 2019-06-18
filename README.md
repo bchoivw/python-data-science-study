@@ -22,4 +22,4 @@ I'm utilizing multiple resources listed below in order to have a good understand
 5. Coursera - Deep Learning Specialization by deeplearning.ai (Progress: 0%)  
   I'm not sure how long it will take for me to get here, but I will be very excited to learn more advanced techniques like NN
   
-I'm currently using 1-4 concurrently as each have pros and cons and they complement each other well. From time to time I plan to work on my personal projects, participate in Kaggle competitions and internal DS competitions at work.
+I'm currently using 1-4 concurrently as each have pros and cons and they complement each other well. From time to time, I plan to work on my personal projects, participate in Kaggle competitions and internal DS competitions at work.
