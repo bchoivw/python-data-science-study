@@ -5,11 +5,11 @@ Projects I independently work on will have their own repo and/or be on Kaggle.
 
 I'm utilizing multiple resources listed below in order to have a good understanding of both application and theory of machine learning.
 
-1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 20%)  
+1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 40%)  
   This online course covers broad range of applications of machine learning  
     a. Data Capstone Project - (to be updated)
   
-2. Stanford Online - Statistical Learning (Progress: 30%)  
+2. Stanford Online - Statistical Learning (Progress: 40%)  
   This course covers logic and theory behind ML which I think are very important to understand to become a good data scientist  
   The course was originally taught in R, but I'm learning with Python variant of it (https://github.com/Pierian-Data/ISLR-python)
   
