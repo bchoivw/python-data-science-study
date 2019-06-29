@@ -7,7 +7,7 @@ I'm utilizing multiple resources listed below in order to have a good understand
 
 ##### 1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 50%)  
   This online course covers broad range of applications of machine learning  
-    a. Data Capstone Project (911 Calls) - Data Wrangling and EDA using pandas, matplotlib, seaborn
+  - [Data Capstone Project (911 Calls)](https://github.com/bchoiny/python-data-science-study/tree/master/911-eda) - Data Wrangling and EDA using **pandas**, **matplotlib**, **seaborn**
   
 ##### 2. Stanford Online - Statistical Learning (Progress: 60%)  
   This course covers logic and theory behind ML which I think are very important to understand to become a good data scientist  
