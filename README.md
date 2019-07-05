@@ -5,15 +5,15 @@ Projects I independently work on will have their own repo and/or be on Kaggle.
 
 I'm utilizing multiple resources listed below in order to have a good understanding of both application and theory of machine learning.
 
-##### 1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 50%)  
+##### 1. Udemy - Python for Data Science and Machine Learning Bootcamp (Progress: 75%)  
   This online course covers broad range of applications of machine learning  
   - [Data Capstone Project (911 Calls)](https://github.com/bchoiny/python-data-science-study/tree/master/911-eda) - Data Wrangling and EDA using **pandas**, **matplotlib**, **seaborn**
   
-##### 2. Stanford Online - Statistical Learning (Progress: 60%)  
+##### 2. Stanford Online - Statistical Learning (Progress: 100%)  
   This course covers logic and theory behind ML which I think are very important to understand to become a good data scientist  
   The course was originally taught in R, but I'm learning with [Python variant](https://github.com/Pierian-Data/ISLR-python) of it 
   
-##### 3. Book - An Introduction to Statistical Learning (Progress: 30%)  
+##### 3. Book - An Introduction to Statistical Learning (Progress: 50%)  
   This is a companion book of Stanford Online course above. I read it on my iPad during my commute
   
 ##### 4. Coursera - Machine Learning by Andrew Ng (Progress: 15%)  
