@@ -1,7 +1,7 @@
 # python-data-science-study
 
   
-##### For the past 7 weeks, I have been focusing on my company's internal DS competition everyday and put some of the stuffs below on hold. I actually learned tons more from stack overflow, kaggle kernels, and other useful websites during that period to work on that DS competition. I've been utilizing AWS EC2/EMR/S3, bitbucket/sourcetree, and machine learning algorithms like regularized linear regression, Generalized Additive Model(PyGam), xgboost, catboost, and convolutional neural network (Keras) with real company data to build models that can potentially save company's money and be used in practice. Unfortunately, I won't be able to put my codes or data on public repo.
+##### For the past 8 weeks, I have been focusing on my company's internal DS competition everyday and put some of the stuffs below on hold. I actually learned tons more from stack overflow, kaggle kernels, and other useful websites during that period to work on that DS competition. I've been utilizing AWS EC2/EMR/S3, bitbucket/sourcetree, and machine learning algorithms like regularized linear regression, Generalized Additive Model(PyGam), xgboost, catboost, and convolutional neural network (Keras) with real company data to build models that can potentially save company's money and be used in practice. Unfortunately, I won't be able to put my codes or data on public repo.
 
 This repo is for data science projects and guided exercises in Python 3 from online courses and books.  
 Projects I independently work on will have their own repo and/or be on Kaggle.
@@ -24,3 +24,6 @@ I'm utilizing multiple resources listed below in order to have a good understand
   
 ##### 5. Coursera - Deep Learning Specialization by deeplearning.ai (Progress: 0%)  
   I'm not sure how long it will take for me to get here, but I will be very excited to learn more advanced techniques like NN
+
+##### 6. Kaggle - Machine Learning Explainability (Progress: 80%)  
+  This short course on Kaggle goes over few techniques that attempt to give more insights into machine learning model which are sometimes considered black boxes. I personally found this very interesting and I have been utilizing them in practice. Covers permutation important, partial dependency plot, and SHAP value. I highly recommend this interactive course as these relatively new techniques are often not included in typical ML course.
